@@ -37,16 +37,8 @@
       "description": "This command!"
     },
     {
-      "name": "info",
-      "description": "RoleBot's invite, ping, etc."
-    },
-    {
       "name": "auto-join",
       "description": "Setup auto join roles for the server."
-    },
-    {
-      "name": "tutorial",
-      "description": "Need to learn the basics of RoleBot? Use this command!"
     }
   ],
   "react": [
@@ -56,7 +48,7 @@
     },
     {
       "name": "react clean",
-      "description": "If you delete a role RoleBot might miss it, this will remove '@deleted' roles."
+      "description": "If you delete a role Role Minion might miss it, this will remove '@deleted' roles."
     },
     {
       "name": "react create",
