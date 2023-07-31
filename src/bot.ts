@@ -108,7 +108,7 @@ export default class RoleBot extends Discord.Client {
     this.user.setPresence({
       activities: [
         {
-          name: "React to claim your roles!",
+          name: "Your Roles",
           type: Discord.ActivityType.Watching,
         },
       ],
